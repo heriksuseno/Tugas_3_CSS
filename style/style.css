@@ -1,0 +1,23 @@
+p{
+  background-color: #696969;
+}
+.P1{
+  background-color: orange;
+  font-size: 12px;
+}
+.P2{
+  background-color: #0000cd;
+  color: white;
+  font-size: 12px;
+}
+.P3{
+  background-color: white;
+  font-family: monospace;
+  font-weight: bolder;
+  font-size: 15px;
+  border-style: groove;
+}
+.P4{
+  font-weight: bolder;
+  font-family: serif;
+}
